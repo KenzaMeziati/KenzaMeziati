@@ -1,6 +1,7 @@
 # Optimizing Production Performance through Predictive Maintenance Insights
 
 **Capstone project in collaboration with Sidel (2025)**
+This Capstone project, developed in collaboration with Sidel, investigates the impact of equipment failures on production efficiency in industrial bottling lines, aiming to advance predictive maintenance through data analysis and machine learning. 
 
 ## ⚠️ Data Confidentiality
 
