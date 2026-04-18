@@ -1,4 +1,4 @@
-# Predictive Maintenance for Bottling Lines
+# Optimizing Production Performance through Predictive Maintenance Insights
 
 **Capstone project in collaboration with Sidel (2025)**
 
