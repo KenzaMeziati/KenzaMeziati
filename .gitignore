@@ -1,0 +1,30 @@
+# CSV and Excel files (confidential Sidel data)
+*.csv
+*.xlsx
+*.xls
+
+# Python environments
+venv/
+env/
+ENV/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Secret files
+.env
+secrets.json
+
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
